@@ -1,0 +1,137 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.menu{
+   font-size: 30px;
+}
+li{
+list-style-type: none;
+
+}
+a{
+text-decoration: none;
+color: black;
+}
+a:hover{
+color:rgb(140, 200, 50) ;
+
+}
+a.an{
+    color:rgb(140, 200, 50) ;
+}
+a.an:hover{
+    color: black;
+}
+.st{
+
+    font-family: Georgia, 'Times New Roman', serif;
+    font-weight: bold;
+    
+
+
+
+}
+.but {
+    background-color: rgb(140, 200, 50);
+    color: white;
+    transition: 0.3s ease;
+width: 150px;
+height: 40px;
+}
+section{
+    background-color: rgb(253, 250, 246);
+    height: 800px;
+     
+
+}
+
+.but:hover {
+    background-color: rgb(140, 200, 50) !important;
+    color: white !important;
+    filter: brightness(1.15);
+    transition: 0.3s ease;
+}
+.ico{
+    font-size: 30px;
+    
+}
+.va{
+background-color: #3a3a3a;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.kl{
+padding-top:10px ;
+padding-bottom: 40px;
+
+}
+
+  .sec2{
+background-color: rgb(253, 250, 246);
+margin-top: 100px;
+
+
+  }  
+.nn{
+padding-left: 20px;
+margin: 30px;
+height: 280px;
+padding-top: 20px;
+}
+.lof{
+position: relative;
+top: -30px;
+}
+.fo{
+    color: white;
+    
+}
+.bl{
+height: 180px;
+padding-top: 40px;
+
+}
+.vvv:hover{
+filter: brightness(1.15);
+ 
+
+}
+.bgi{
+background-image:linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)), url(./media/imgi_70_sydney-rae-668606-unsplash.jpg);
+
+height: 300px;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+color: white;
+padding: 20px;
+
+}
+.jj{
+height: 300px;
+
+
+}
+.kkk{
+
+background-color: rgb(253, 250, 246);
+
+}
+a.anc{
+
+    color: rgba(255, 255, 255, 0.696) !important ;
+}
+a.anc:hover{
+    color: white !important;
+}
